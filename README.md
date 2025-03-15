@@ -72,6 +72,19 @@ Controls player movement.
 2. Configure the Inspector settings (e.g., assign `sceneToLoad`, `fadeImage`, `correctSequence`).
 3. Run the Unity project and interact with objects to trigger the scripts.
 
+## Market
+- Mainly kids above the age of 14 and adults seeking entertainment, nostalgia and the thrill of light horror.
+- Market is decently large as horror and puzzle games are very popular genres, especially among mobile gamers.
+
+## Feasibilty
+- Very easy to develop, and distribute as it is a 2D platformer
+- Assets are easy to build and hence can be distributed as a completely free or freemium model
+
+## Marketing
+- Light advertising
+- Word of Mouth
+- Publishing in open source environments like itch.io
+
 ## Contributors
 - **Amrith Saras** - Scripting
 - **Diya Jothish** - UI Design
